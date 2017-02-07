@@ -4,7 +4,7 @@
 
 ## 2. [Enabling Annotations](./content/enabling-annotations.md)
 
-## 3. [@Nullable and @NotNull](./content/nullable-and-notnull.md)
+## 3. [@Nullable and @NotNull](./content/nullable-and-notnull-annotations.md)
 
 ## 4. [@NonNls](./content/nonnls-annotation.md)
 
